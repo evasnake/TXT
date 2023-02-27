@@ -1,0 +1,1 @@
+full_name: Koshcheeva Evgeniya Anatolyevna ,age: 34 ,number_of_pets: 7,     future_desired_salary: 1200$
