@@ -1,0 +1,1 @@
+Skills_to_be_learned_in_the_course: test_documentations , test_planning_and_strategy, test_design, bug_report, terminal_linux and_other.

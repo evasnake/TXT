@@ -1,0 +1,5 @@
+       favorite_movie: Platform,Menu,
+       favorite_series: about_difficult_life_situations,
+       favorite_food: red_fish,
+       favorite_season: warm_autumn,
+       the_country_you_would_like_to_visit:Kyrgyzstan
